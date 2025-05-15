@@ -1,0 +1,101 @@
+config,query,answer_perplexity,query_perplexity
+BAAI/bge-large-en_pq,What are the applications of Bayesian?,6.969701766967773,85.58904266357422
+BAAI/bge-large-en_pq,When was concentration first developed?,14.0684232711792,308.97271728515625
+BAAI/bge-large-en_pq,What challenges exist in implementing Energy?,7.090492248535156,463.50286865234375
+BAAI/bge-large-en_pq,What are the main components of Prediction?,6.880237102508545,75.20455932617188
+BAAI/bge-large-en_pq,How is bottomT evaluated?,12.532679557800293,2424.666748046875
+BAAI/bge-large-en_pq,How does Data-Driven compare to Data-Driven?,7.201857566833496,54.748653411865234
+BAAI/bge-large-en_pq,How does Optimization work?,14.650017738342285,195.5509033203125
+BAAI/bge-large-en_pq,What tools are used for PM2.5?,7.255278587341309,57.20663833618164
+BAAI/bge-large-en_pq,Summarize the current state of research on (days).,7.650089263916016,52.46857452392578
+BAAI/bge-large-en_pq,What are the limitations of Algorithm?,12.49166488647461,102.25703430175781
+all-MiniLM-L6-v2_pq,What are the applications of Bayesian?,8.460289001464844,85.58904266357422
+all-MiniLM-L6-v2_pq,When was concentration first developed?,8.282102584838867,308.97271728515625
+all-MiniLM-L6-v2_pq,What challenges exist in implementing Energy?,9.329673767089844,463.50286865234375
+all-MiniLM-L6-v2_pq,What are the main components of Prediction?,5.289767265319824,75.20455932617188
+all-MiniLM-L6-v2_pq,How is bottomT evaluated?,8.46428394317627,2424.666748046875
+all-MiniLM-L6-v2_pq,How does Data-Driven compare to Data-Driven?,6.777107238769531,54.748653411865234
+all-MiniLM-L6-v2_pq,How does Optimization work?,8.171618461608887,195.5509033203125
+all-MiniLM-L6-v2_pq,What tools are used for PM2.5?,5.644008159637451,57.20663833618164
+all-MiniLM-L6-v2_pq,Summarize the current state of research on (days).,11.887990951538086,52.46857452392578
+all-MiniLM-L6-v2_pq,What are the limitations of Algorithm?,8.36246395111084,102.25703430175781
+BAAI/bge-large-en_vq,What are the applications of Bayesian?,13.74018669128418,85.58904266357422
+BAAI/bge-large-en_vq,When was concentration first developed?,6.745739459991455,308.97271728515625
+BAAI/bge-large-en_vq,What challenges exist in implementing Energy?,8.32955551147461,463.50286865234375
+BAAI/bge-large-en_vq,What are the main components of Prediction?,8.112234115600586,75.20455932617188
+BAAI/bge-large-en_vq,How is bottomT evaluated?,17.247520446777344,2424.666748046875
+BAAI/bge-large-en_vq,How does Data-Driven compare to Data-Driven?,6.924405097961426,54.748653411865234
+BAAI/bge-large-en_vq,How does Optimization work?,7.846792697906494,195.5509033203125
+BAAI/bge-large-en_vq,What tools are used for PM2.5?,7.192287921905518,57.20663833618164
+BAAI/bge-large-en_vq,Summarize the current state of research on (days).,9.202351570129395,52.46857452392578
+BAAI/bge-large-en_vq,What are the limitations of Algorithm?,29.26296615600586,102.25703430175781
+BAAI/bge-large-en_ivf,What are the applications of Bayesian?,13.096802711486816,85.58904266357422
+BAAI/bge-large-en_ivf,When was concentration first developed?,10.375086784362793,308.97271728515625
+BAAI/bge-large-en_ivf,What challenges exist in implementing Energy?,7.655189037322998,463.50286865234375
+BAAI/bge-large-en_ivf,What are the main components of Prediction?,7.455753326416016,75.20455932617188
+BAAI/bge-large-en_ivf,How is bottomT evaluated?,10.64401626586914,2424.666748046875
+BAAI/bge-large-en_ivf,How does Data-Driven compare to Data-Driven?,7.552948951721191,54.748653411865234
+BAAI/bge-large-en_ivf,How does Optimization work?,11.094593048095703,195.5509033203125
+BAAI/bge-large-en_ivf,What tools are used for PM2.5?,9.429489135742188,57.20663833618164
+BAAI/bge-large-en_ivf,Summarize the current state of research on (days).,6.342109203338623,52.46857452392578
+BAAI/bge-large-en_ivf,What are the limitations of Algorithm?,13.094243049621582,102.25703430175781
+all-MiniLM-L6-v2_vq,What are the applications of Bayesian?,6.615972518920898,85.58904266357422
+all-MiniLM-L6-v2_vq,When was concentration first developed?,6.592123031616211,308.97271728515625
+all-MiniLM-L6-v2_vq,What challenges exist in implementing Energy?,7.9386067390441895,463.50286865234375
+all-MiniLM-L6-v2_vq,What are the main components of Prediction?,6.029094696044922,75.20455932617188
+all-MiniLM-L6-v2_vq,How is bottomT evaluated?,6.979866981506348,2424.666748046875
+all-MiniLM-L6-v2_vq,How does Data-Driven compare to Data-Driven?,6.604571342468262,54.748653411865234
+all-MiniLM-L6-v2_vq,How does Optimization work?,6.613259315490723,195.5509033203125
+all-MiniLM-L6-v2_vq,What tools are used for PM2.5?,5.66807222366333,57.20663833618164
+all-MiniLM-L6-v2_vq,Summarize the current state of research on (days).,13.290861129760742,52.46857452392578
+all-MiniLM-L6-v2_vq,What are the limitations of Algorithm?,5.336455345153809,102.25703430175781
+all-MiniLM-L6-v2_ivf,What are the applications of Bayesian?,19.714853286743164,85.58904266357422
+all-MiniLM-L6-v2_ivf,When was concentration first developed?,5.829560279846191,308.97271728515625
+all-MiniLM-L6-v2_ivf,What challenges exist in implementing Energy?,7.978019714355469,463.50286865234375
+all-MiniLM-L6-v2_ivf,What are the main components of Prediction?,7.077510833740234,75.20455932617188
+all-MiniLM-L6-v2_ivf,How is bottomT evaluated?,5.2685041427612305,2424.666748046875
+all-MiniLM-L6-v2_ivf,How does Data-Driven compare to Data-Driven?,8.06651496887207,54.748653411865234
+all-MiniLM-L6-v2_ivf,How does Optimization work?,15.919472694396973,195.5509033203125
+all-MiniLM-L6-v2_ivf,What tools are used for PM2.5?,7.290605068206787,57.20663833618164
+all-MiniLM-L6-v2_ivf,Summarize the current state of research on (days).,5.952463150024414,52.46857452392578
+all-MiniLM-L6-v2_ivf,What are the limitations of Algorithm?,6.040666580200195,102.25703430175781
+BAAI/bge-large-en_hnsw,What are the applications of Bayesian?,6.519297122955322,85.58904266357422
+BAAI/bge-large-en_hnsw,When was concentration first developed?,6.587240695953369,308.97271728515625
+BAAI/bge-large-en_hnsw,What challenges exist in implementing Energy?,6.352832794189453,463.50286865234375
+BAAI/bge-large-en_hnsw,What are the main components of Prediction?,11.656994819641113,75.20455932617188
+BAAI/bge-large-en_hnsw,How is bottomT evaluated?,7.228504180908203,2424.666748046875
+BAAI/bge-large-en_hnsw,How does Data-Driven compare to Data-Driven?,11.511180877685547,54.748653411865234
+BAAI/bge-large-en_hnsw,How does Optimization work?,4.159701824188232,195.5509033203125
+BAAI/bge-large-en_hnsw,What tools are used for PM2.5?,6.194342613220215,57.20663833618164
+BAAI/bge-large-en_hnsw,Summarize the current state of research on (days).,5.5025129318237305,52.46857452392578
+BAAI/bge-large-en_hnsw,What are the limitations of Algorithm?,10.79841423034668,102.25703430175781
+BAAI/bge-large-en_flat,What are the applications of Bayesian?,7.276557445526123,85.58904266357422
+BAAI/bge-large-en_flat,When was concentration first developed?,5.722672462463379,308.97271728515625
+BAAI/bge-large-en_flat,What challenges exist in implementing Energy?,21.912841796875,463.50286865234375
+BAAI/bge-large-en_flat,What are the main components of Prediction?,7.0846099853515625,75.20455932617188
+BAAI/bge-large-en_flat,How is bottomT evaluated?,8.316048622131348,2424.666748046875
+BAAI/bge-large-en_flat,How does Data-Driven compare to Data-Driven?,16.50587272644043,54.748653411865234
+BAAI/bge-large-en_flat,How does Optimization work?,3.53607177734375,195.5509033203125
+BAAI/bge-large-en_flat,What tools are used for PM2.5?,21.776891708374023,57.20663833618164
+BAAI/bge-large-en_flat,Summarize the current state of research on (days).,10.061833381652832,52.46857452392578
+BAAI/bge-large-en_flat,What are the limitations of Algorithm?,8.325763702392578,102.25703430175781
+all-MiniLM-L6-v2_hnsw,What are the applications of Bayesian?,5.859170436859131,85.58904266357422
+all-MiniLM-L6-v2_hnsw,When was concentration first developed?,35.98282241821289,308.97271728515625
+all-MiniLM-L6-v2_hnsw,What challenges exist in implementing Energy?,8.160100936889648,463.50286865234375
+all-MiniLM-L6-v2_hnsw,What are the main components of Prediction?,19.08397102355957,75.20455932617188
+all-MiniLM-L6-v2_hnsw,How is bottomT evaluated?,9.280839920043945,2424.666748046875
+all-MiniLM-L6-v2_hnsw,How does Data-Driven compare to Data-Driven?,15.451375961303711,54.748653411865234
+all-MiniLM-L6-v2_hnsw,How does Optimization work?,6.122098922729492,195.5509033203125
+all-MiniLM-L6-v2_hnsw,What tools are used for PM2.5?,4.622232437133789,57.20663833618164
+all-MiniLM-L6-v2_hnsw,Summarize the current state of research on (days).,47.248260498046875,52.46857452392578
+all-MiniLM-L6-v2_hnsw,What are the limitations of Algorithm?,6.811286449432373,102.25703430175781
+all-MiniLM-L6-v2_flat,What are the applications of Bayesian?,6.065970420837402,85.58904266357422
+all-MiniLM-L6-v2_flat,When was concentration first developed?,3.347715139389038,308.97271728515625
+all-MiniLM-L6-v2_flat,What challenges exist in implementing Energy?,32.785579681396484,463.50286865234375
+all-MiniLM-L6-v2_flat,What are the main components of Prediction?,5.04194974899292,75.20455932617188
+all-MiniLM-L6-v2_flat,How is bottomT evaluated?,11.68955135345459,2424.666748046875
+all-MiniLM-L6-v2_flat,How does Data-Driven compare to Data-Driven?,7.6214599609375,54.748653411865234
+all-MiniLM-L6-v2_flat,How does Optimization work?,5.3415846824646,195.5509033203125
+all-MiniLM-L6-v2_flat,What tools are used for PM2.5?,3.646536111831665,57.20663833618164
+all-MiniLM-L6-v2_flat,Summarize the current state of research on (days).,10.930225372314453,52.46857452392578
+all-MiniLM-L6-v2_flat,What are the limitations of Algorithm?,7.914554595947266,102.25703430175781

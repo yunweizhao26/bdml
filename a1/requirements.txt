@@ -1,0 +1,11 @@
+torch
+datasets
+peft
+transformers
+torch
+bitsandbytes
+accelerate
+sentencepiece
+protobuf
+tiktoken
+blobfile

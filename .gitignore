@@ -1,0 +1,45 @@
+/a1/3b-3.2_bs32_4bit_shuffling
+a1/3b-3.2_bs41_4bit_shuffling
+a1/3b-3.2_bs48_4bit_shuffling
+a1/cache
+a1/data
+a1/llama-climate
+a1/Llama3.2-3B
+a1/models
+a1/test
+a1/train
+a1/train_data
+a1/train_data copy
+a1/transformers
+a2/3b-3.2_bs41_4bit_shuffling
+a2/3b-3.2-tp_bs20_tp2_fp16
+a2/cache
+a2/conf
+a2/data
+a2/llama-climate
+a2/llama-climate-tp
+a2/llama-pipeline-parallel
+a2/Llama3.2-3B
+a2/models
+a2/test
+a2/train
+a2/train_data
+a2/train_data copy
+a3/3b-3.2_bs41_4bit_shuffling
+a3/3b-3.2-tp_bs20_tp2_fp16
+a3/cache
+a3/conf
+a3/data
+a3/llama-climate
+a3/llama-climate-tp
+a3/llama-pipeline-parallel
+a3/Llama3.2-3B
+a3/models
+a3/test
+a3/train
+a3/train_data
+a3/train_data copy
+cache
+Miniconda3-latest-Linux-x86_64.sh
+Miniconda3-latest-Linux-x86_64.sh.1
+a3/.env
